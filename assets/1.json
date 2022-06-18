@@ -1,0 +1,19 @@
+{
+  "name": "Ankr FTW - White",
+  "symbol": "ANKR",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Gt5UNej4PpY1TkhY2Lo5pYuJtVsdFxqhfAZBhE6xmAYb",
+        "share": 100
+      }
+    ]
+  }
+}
